@@ -20,6 +20,6 @@ You'll will only need to modify words that are defined in ```bool isWord(char s[
 ```gcc main.c -o app```
 ```./app``` (in order to execute it)
 
-## Finally, just enjoy the words coming up to your screen while the computer find them 
+## Finally, just enjoy the words coming up to your screen while the computer finds them 
 
 Brought to you by @Zcorp with 🖤
